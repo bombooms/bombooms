@@ -2,7 +2,7 @@
 
 <!--
 **bombooms/bombooms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Vue.js--%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Express-blue?style=flat&logo=Express&logoColor=ffffff"> <img src="https://camo.githubusercontent.com/9627fbbce0fc5b0724e21b9a80fbe82e235db74e17c63d1fd461211b12be557e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303030303f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d303063386666">
+
+
 
 
 
